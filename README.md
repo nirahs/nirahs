@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nirahs.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning concurrent programming.
+- 🌱 I’m currently doing software engineering degree.
 <!-- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... -->
 
