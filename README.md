@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi, I’m nirahs.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently doing software engineering degree.
 
 <!--
 **nirahs/nirahs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
