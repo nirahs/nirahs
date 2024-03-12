@@ -14,8 +14,7 @@ I am ✨ `nirahs` ✨, a passionate programmer with a deep love for exploring th
 - 🚀 Has strong problem-solving and analytical skills.
 
 ## Projects
-- 🔨 Developed the [Eggmen NFTs](https://github.com/nirahs/eggmen_nfts) project using `ReactJS` and `NodeJS`, exploring the world of Non-Fungible Tokens. This is a sample project built on the `Ethereum test network`.
-- 🔗 Visit [eggmens.netlify.app](https://eggmens.netlify.app) for more information.
+- 🔨 Developed the [Eggmen NFTs](https://github.com/nirahs/eggmen_nfts) project using `ReactJS` and `NodeJS`, exploring the world of Non-Fungible Tokens. This is a sample project built on the `Ethereum test network`. Visit 🔗 [eggmens.netlify.app](https://eggmens.netlify.app) for more information.
 - 🔨 Developed the [BMI Calculator](https://github.com/nirahs/bmi_calculator) project using `Flutter`, which helps calculate Body Mass Index.
 
 Feel free to explore my GitHub repositories to see my work and contributions. I am open to collaborations and would love to connect with fellow developers and enthusiasts.
