@@ -5,18 +5,18 @@ Hello there! Thank you for stopping by. Let me take a moment to introduce myself
 I am ✨ `nirahs` ✨, a passionate programmer with a deep love for exploring the world of software development. I believe in the power of continuous learning and constantly strive to enhance my skills, staying up-to-date with the latest technologies and trends in the industry.
 
 ## Education
-- 🎓 Currently pursuing a software engineering degree.
+- 🎓 Graduated with a degree in software engineering.
 - 🌱 Committed to gaining expertise in software engineering principles and practices.
 
 ## Skills
-- 💻 Proficient in Java, React JS, Node JS, Mongo DB, and SQL.
+- 💻 Proficient in Java, JavaScript, PHP, React JS, Node JS, Laravel, Mongo DB, and MySQL.
 - 🔍 Experienced in developing web applications using modern frameworks and libraries.
 - 🚀 Has strong problem-solving and analytical skills.
 
 ## Projects
-- 🔨 Developed the [BMI Calculator](https://github.com/nirahs/bmi_calculator) project using `Flutter`, which helps calculate Body Mass Index.
 - 🔨 Developed the [Eggmen NFTs](https://github.com/nirahs/eggmen_nfts) project using `ReactJS`, exploring the world of Non-Fungible Tokens.
 - 🔗 Visit [eggmens.netlify.app](https://eggmens.netlify.app) for more information.
+- 🔨 Developed the [BMI Calculator](https://github.com/nirahs/bmi_calculator) project using `Flutter`, which helps calculate Body Mass Index.
 
 Feel free to explore my GitHub repositories to see my work and contributions. I am open to collaborations and would love to connect with fellow developers and enthusiasts.
 
