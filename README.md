@@ -6,7 +6,7 @@ I am ✨ `nirahs` ✨, a passionate programmer with a deep love for exploring th
 
 ## Education
 - 🎓 Graduated with a degree in software engineering.
-- 🌱 Committed to gaining expertise in software engineering principles and practices.
+- 💻 Committed to gaining expertise in software engineering principles and practices.
 
 ## Skills
 - 💻 Proficient in Java, JavaScript, PHP, React JS, Node JS, Laravel, Mongo DB, and MySQL.
